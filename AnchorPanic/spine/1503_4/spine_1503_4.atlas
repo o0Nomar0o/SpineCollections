@@ -1,0 +1,327 @@
+
+spine_1503_4.png
+size: 2007,2028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q10
+  rotate: true
+  xy: 10, 1686
+  size: 158, 326
+  orig: 158, 326
+  offset: 0, 0
+  index: -1
+q11
+  rotate: true
+  xy: 1589, 1730
+  size: 156, 359
+  orig: 156, 359
+  offset: 0, 0
+  index: -1
+q12
+  rotate: true
+  xy: 880, 1042
+  size: 250, 999
+  orig: 306, 999
+  offset: 0, 0
+  index: -1
+q13
+  rotate: true
+  xy: 1294, 170
+  size: 533, 606
+  orig: 533, 606
+  offset: 0, 0
+  index: -1
+q14
+  rotate: true
+  xy: 346, 1625
+  size: 134, 839
+  orig: 136, 839
+  offset: 0, 0
+  index: -1
+q15
+  rotate: false
+  xy: 1432, 1334
+  size: 243, 242
+  orig: 243, 242
+  offset: 0, 0
+  index: -1
+q16
+  rotate: true
+  xy: 857, 1777
+  size: 146, 171
+  orig: 146, 171
+  offset: 0, 0
+  index: -1
+q17
+  rotate: true
+  xy: 162, 1991
+  size: 27, 58
+  orig: 29, 60
+  offset: 1, 1
+  index: -1
+q18
+  rotate: true
+  xy: 272, 1469
+  size: 146, 664
+  orig: 146, 664
+  offset: 0, 0
+  index: -1
+q19
+  rotate: false
+  xy: 1685, 1302
+  size: 306, 274
+  orig: 306, 274
+  offset: 0, 0
+  index: -1
+q2
+  rotate: true
+  xy: 10, 1854
+  size: 111, 468
+  orig: 111, 468
+  offset: 0, 0
+  index: -1
+q20
+  rotate: true
+  xy: 663, 1787
+  size: 137, 184
+  orig: 137, 184
+  offset: 0, 0
+  index: -1
+q21
+  rotate: true
+  xy: 1195, 1586
+  size: 134, 802
+  orig: 138, 802
+  offset: 0, 0
+  index: -1
+q22
+  rotate: false
+  xy: 1421, 1917
+  size: 120, 101
+  orig: 120, 101
+  offset: 0, 0
+  index: -1
+q23
+  rotate: true
+  xy: 10, 1188
+  size: 271, 459
+  orig: 271, 459
+  offset: 0, 0
+  index: -1
+q24
+  rotate: true
+  xy: 1131, 1928
+  size: 90, 103
+  orig: 92, 105
+  offset: 1, 1
+  index: -1
+q25
+  rotate: true
+  xy: 580, 1964
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+q26
+  rotate: true
+  xy: 772, 1934
+  size: 84, 137
+  orig: 84, 137
+  offset: 0, 0
+  index: -1
+q27
+  rotate: true
+  xy: 946, 1403
+  size: 212, 226
+  orig: 212, 226
+  offset: 0, 0
+  index: -1
+q28
+  rotate: true
+  xy: 230, 1986
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+q29
+  rotate: true
+  xy: 48, 1995
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+q3
+  rotate: true
+  xy: 479, 1131
+  size: 328, 391
+  orig: 328, 391
+  offset: 0, 0
+  index: -1
+q30
+  rotate: true
+  xy: 328, 1981
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+q31
+  rotate: true
+  xy: 442, 1975
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+q32
+  rotate: false
+  xy: 10, 2005
+  size: 28, 13
+  orig: 33, 15
+  offset: 2, 1
+  index: -1
+q33
+  rotate: false
+  xy: 381, 1981
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+q34
+  rotate: true
+  xy: 281, 1985
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+q35
+  rotate: false
+  xy: 94, 1994
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+q36
+  rotate: false
+  xy: 500, 1974
+  size: 70, 44
+  orig: 70, 44
+  offset: 0, 0
+  index: -1
+q37
+  rotate: false
+  xy: 10, 1498
+  size: 252, 178
+  orig: 265, 188
+  offset: 12, 9
+  index: -1
+q38
+  rotate: true
+  xy: 1244, 1923
+  size: 95, 167
+  orig: 95, 167
+  offset: 0, 0
+  index: -1
+q39
+  rotate: true
+  xy: 1820, 1896
+  size: 122, 157
+  orig: 122, 157
+  offset: 0, 0
+  index: -1
+q4
+  rotate: false
+  xy: 488, 1810
+  size: 165, 144
+  orig: 165, 144
+  offset: 0, 0
+  index: -1
+q40
+  rotate: true
+  xy: 676, 1946
+  size: 72, 86
+  orig: 72, 86
+  offset: 0, 0
+  index: -1
+q41
+  rotate: true
+  xy: 1401, 1749
+  size: 156, 178
+  orig: 156, 178
+  offset: 0, 0
+  index: -1
+q42
+  rotate: true
+  xy: 1551, 1915
+  size: 103, 122
+  orig: 107, 124
+  offset: 1, 1
+  index: -1
+q43
+  rotate: true
+  xy: 1038, 1769
+  size: 144, 353
+  orig: 144, 353
+  offset: 0, 0
+  index: -1
+q44
+  rotate: false
+  xy: 1182, 1380
+  size: 240, 196
+  orig: 342, 275
+  offset: 57, 44
+  index: -1
+q5
+  rotate: true
+  xy: 10, 10
+  size: 397, 1067
+  orig: 397, 1067
+  offset: 0, 0
+  index: -1
+q6
+  rotate: true
+  xy: 10, 417
+  size: 286, 1274
+  orig: 286, 1274
+  offset: 0, 0
+  index: -1
+q7
+  rotate: true
+  xy: 809, 713
+  size: 319, 804
+  orig: 319, 804
+  offset: 0, 0
+  index: -1
+q8
+  rotate: true
+  xy: 10, 806
+  size: 315, 789
+  orig: 315, 789
+  offset: 0, 0
+  index: -1
+q8_1
+  rotate: true
+  xy: 919, 1933
+  size: 85, 202
+  orig: 104, 289
+  offset: 0, 34
+  index: -1
+q9
+  rotate: false
+  xy: 1683, 1914
+  size: 127, 104
+  orig: 127, 104
+  offset: 0, 0
+  index: -1
+
+spine_1503_42.png
+size: 1863,1308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q1
+  rotate: false
+  xy: 10, 10
+  size: 1843, 1288
+  orig: 1843, 1288
+  offset: 0, 0
+  index: -1

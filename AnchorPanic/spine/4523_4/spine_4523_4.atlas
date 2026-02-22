@@ -1,0 +1,692 @@
+
+spine_4523_4.png
+size: 2047,2047
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gx_2
+  rotate: false
+  xy: 2, 326
+  size: 1800, 1719
+  orig: 1800, 1719
+  offset: 0, 0
+  index: -1
+hua_2
+  rotate: true
+  xy: 1804, 326
+  size: 1054, 178
+  orig: 1054, 178
+  offset: 0, 0
+  index: -1
+l_damuzhi
+  rotate: true
+  xy: 1283, 19
+  size: 101, 387
+  orig: 101, 387
+  offset: 0, 0
+  index: -1
+l_gaoguang
+  rotate: false
+  xy: 253, 302
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+l_shouzhang
+  rotate: 180
+  xy: 1802, 40
+  size: 229, 284
+  orig: 229, 284
+  offset: 0, 0
+  index: -1
+l_shouzhi_5
+  rotate: false
+  xy: 1023, 244
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+l_xiayan
+  rotate: false
+  xy: 1959, 199
+  size: 85, 125
+  orig: 85, 125
+  offset: 0, 0
+  index: -1
+l_yanbai
+  rotate: false
+  xy: 1804, 1383
+  size: 86, 112
+  orig: 86, 112
+  offset: 0, 0
+  index: -1
+l_yanzhu
+  rotate: false
+  xy: 1406, 99
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+liuhai_1_yy
+  rotate: true
+  xy: 1019, 10
+  size: 89, 257
+  orig: 89, 257
+  offset: 0, 0
+  index: -1
+liuhai_2_yy
+  rotate: false
+  xy: 1983, 326
+  size: 43, 221
+  orig: 43, 221
+  offset: 0, 0
+  index: -1
+liuhai_4
+  rotate: true
+  xy: 711, 3
+  size: 129, 268
+  orig: 129, 268
+  offset: 0, 0
+  index: -1
+liuhai_6
+  rotate: false
+  xy: 1804, 1463
+  size: 192, 582
+  orig: 192, 582
+  offset: 0, 0
+  index: -1
+liuhai_8
+  rotate: false
+  xy: 1051, 58
+  size: 396, 236
+  orig: 396, 236
+  offset: 0, 0
+  index: -1
+mojing_2
+  rotate: false
+  xy: 116, 292
+  size: 135, 32
+  orig: 135, 32
+  offset: 0, 0
+  index: -1
+r_er
+  rotate: false
+  xy: 2, 40
+  size: 707, 285
+  orig: 707, 297
+  offset: 0, 12
+  index: -1
+r_gaoguang
+  rotate: false
+  xy: 276, 309
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+r_jiaozhi_1
+  rotate: true
+  xy: 1804, 1888
+  size: 150, 82
+  orig: 150, 87
+  offset: 0, 5
+  index: -1
+r_meimao
+  rotate: true
+  xy: 2, 288
+  size: 36, 112
+  orig: 36, 112
+  offset: 0, 0
+  index: -1
+r_shangyan
+  rotate: true
+  xy: 1704, 256
+  size: 68, 102
+  orig: 68, 102
+  offset: 0, 0
+  index: -1
+r_shouwan
+  rotate: false
+  xy: 1449, 59
+  size: 362, 265
+  orig: 362, 265
+  offset: 0, 0
+  index: -1
+r_xiayan
+  rotate: false
+  xy: 1930, 1975
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+r_xiong
+  rotate: false
+  xy: 711, 55
+  size: 351, 269
+  orig: 351, 269
+  offset: 0, 0
+  index: -1
+r_yanbai
+  rotate: false
+  xy: 1968, 1362
+  size: 59, 77
+  orig: 59, 77
+  offset: 0, 0
+  index: -1
+r_yanxian
+  rotate: true
+  xy: 1125, 263
+  size: 61, 89
+  orig: 61, 89
+  offset: 0, 0
+  index: -1
+r_yanzhu
+  rotate: true
+  xy: 315, 60
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+shui_1
+  rotate: true
+  xy: 144, 9
+  size: 47, 360
+  orig: 47, 360
+  offset: 0, 0
+  index: -1
+shui_2
+  rotate: false
+  xy: 1998, 1811
+  size: 30, 234
+  orig: 30, 234
+  offset: 0, 0
+  index: -1
+toufa_5
+  rotate: true
+  xy: 2, 32
+  size: 157, 311
+  orig: 157, 311
+  offset: 0, 0
+  index: -1
+zhuangshi
+  rotate: 180
+  xy: 1907, 1382
+  size: 125, 285
+  orig: 125, 285
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 1765, 13
+  size: 78, 103
+  orig: 78, 103
+  offset: 0, 0
+  index: -1
+
+spine_4523_42.png
+size: 2048,2044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 2, 607
+  size: 2000, 1435
+  orig: 2000, 1435
+  offset: 0, 0
+  index: -1
+l_jiaozhi_1
+  rotate: 180
+  xy: 1526, 147
+  size: 165, 119
+  orig: 165, 119
+  offset: 0, 0
+  index: -1
+l_jiaozhi_3
+  rotate: 180
+  xy: 668, 3
+  size: 217, 132
+  orig: 217, 132
+  offset: 0, 0
+  index: -1
+l_jiaozhi_5
+  rotate: false
+  xy: 239, 15
+  size: 202, 94
+  orig: 208, 94
+  offset: 0, 0
+  index: -1
+l_shangyan
+  rotate: 270
+  xy: 1782, 135
+  size: 118, 165
+  orig: 118, 165
+  offset: 0, 0
+  index: -1
+l_shouzhi_2
+  rotate: true
+  xy: 1320, 12
+  size: 195, 203
+  orig: 195, 203
+  offset: 0, 0
+  index: -1
+liuhai_2
+  rotate: true
+  xy: 1315, 100
+  size: 166, 447
+  orig: 166, 447
+  offset: 0, 0
+  index: -1
+liuhai_5
+  rotate: true
+  xy: 887, 7
+  size: 94, 367
+  orig: 94, 367
+  offset: 0, 0
+  index: -1
+liuhai_7
+  rotate: false
+  xy: 1584, 29
+  size: 461, 287
+  orig: 461, 287
+  offset: 0, 0
+  index: -1
+r_jiaozhi_2
+  rotate: true
+  xy: 421, 34
+  size: 232, 252
+  orig: 232, 252
+  offset: 0, 0
+  index: -1
+r_jiaozhi_5
+  rotate: false
+  xy: 1693, 168
+  size: 193, 98
+  orig: 193, 98
+  offset: 0, 0
+  index: -1
+sz_1
+  rotate: false
+  xy: 1028, 57
+  size: 123, 209
+  orig: 123, 209
+  offset: 0, 0
+  index: -1
+sz_2
+  rotate: true
+  xy: 2, 32
+  size: 70, 235
+  orig: 70, 235
+  offset: 0, 0
+  index: -1
+sz_3
+  rotate: false
+  xy: 1153, 92
+  size: 167, 174
+  orig: 235, 174
+  offset: 0, 0
+  index: -1
+sz_4
+  rotate: false
+  xy: 1861, 9
+  size: 185, 160
+  orig: 185, 192
+  offset: 0, 32
+  index: -1
+toufa_4
+  rotate: true
+  xy: 623, 98
+  size: 168, 403
+  orig: 168, 403
+  offset: 0, 0
+  index: -1
+toufa_7
+  rotate: false
+  xy: 2, 104
+  size: 444, 162
+  orig: 444, 162
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 2, 268
+  size: 2000, 337
+  orig: 2000, 337
+  offset: 0, 0
+  index: -1
+
+spine_4523_43.png
+size: 2032,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_jiaozhi_2
+  rotate: false
+  xy: 1247, 1900
+  size: 193, 146
+  orig: 193, 146
+  offset: 0, 0
+  index: -1
+l_jiaozhi_4
+  rotate: false
+  xy: 1050, 1912
+  size: 223, 134
+  orig: 223, 134
+  offset: 0, 0
+  index: -1
+l_meimao
+  rotate: false
+  xy: 2, 1394
+  size: 142, 141
+  orig: 142, 141
+  offset: 0, 0
+  index: -1
+l_shouzhi_1
+  rotate: false
+  xy: 1875, 1306
+  size: 131, 200
+  orig: 131, 200
+  offset: 0, 0
+  index: -1
+l_shouzhi_3
+  rotate: false
+  xy: 130, 501
+  size: 205, 185
+  orig: 205, 185
+  offset: 0, 0
+  index: -1
+l_shouzhi_4
+  rotate: false
+  xy: 187, 2
+  size: 183, 140
+  orig: 183, 140
+  offset: 0, 0
+  index: -1
+l_xiaotui
+  rotate: 270
+  xy: 2, 139
+  size: 1165, 2000
+  orig: 1165, 2000
+  offset: 0, 0
+  index: -1
+l_yanxian
+  rotate: false
+  xy: 2, 761
+  size: 124, 140
+  orig: 132, 140
+  offset: 0, 0
+  index: -1
+liuhai_1
+  rotate: 180
+  xy: 1638, 984
+  size: 292, 423
+  orig: 292, 423
+  offset: 0, 0
+  index: -1
+liuhai_9
+  rotate: false
+  xy: 2, 1594
+  size: 271, 452
+  orig: 271, 452
+  offset: 0, 0
+  index: -1
+qiu_1
+  rotate: false
+  xy: 2, 648
+  size: 1669, 1399
+  orig: 1800, 1428
+  offset: 0, 29
+  index: -1
+r_jiaozhi_3
+  rotate: false
+  xy: 96, 3
+  size: 210, 148
+  orig: 210, 148
+  offset: 0, 0
+  index: -1
+r_jiaozhi_4
+  rotate: false
+  xy: 1654, 1379
+  size: 218, 126
+  orig: 218, 126
+  offset: 0, 0
+  index: -1
+tou
+  rotate: 270
+  xy: 1462, 1507
+  size: 539, 567
+  orig: 539, 567
+  offset: 0, 0
+  index: -1
+toufa_1
+  rotate: false
+  xy: 2, 476
+  size: 249, 275
+  orig: 249, 275
+  offset: 0, 0
+  index: -1
+toufa_3
+  rotate: 180
+  xy: 800, 2
+  size: 369, 332
+  orig: 369, 332
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: 270
+  xy: 1188, 2
+  size: 595, 799
+  orig: 595, 799
+  offset: 0, 0
+  index: -1
+
+spine_4523_44.png
+size: 1974,2043
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hai
+  rotate: 270
+  xy: 741, 269
+  size: 1773, 878
+  orig: 1800, 878
+  offset: 27, 0
+  index: -1
+hua_1
+  rotate: true
+  xy: 1621, 2
+  size: 814, 350
+  orig: 814, 350
+  offset: 0, 0
+  index: -1
+hua_4
+  rotate: true
+  xy: 1621, 818
+  size: 1223, 345
+  orig: 1223, 345
+  offset: 0, 0
+  index: -1
+l_datui
+  rotate: false
+  xy: 2, 41
+  size: 935, 2000
+  orig: 935, 2000
+  offset: 0, 0
+  index: -1
+liuhai_10
+  rotate: false
+  xy: 2, 1478
+  size: 504, 563
+  orig: 504, 563
+  offset: 0, 0
+  index: -1
+liuhai_3
+  rotate: true
+  xy: 708, 16
+  size: 565, 609
+  orig: 565, 609
+  offset: 0, 0
+  index: -1
+yifu_2
+  rotate: false
+  xy: 761, 269
+  size: 370, 185
+  orig: 370, 185
+  offset: 0, 0
+  index: -1
+
+spine_4523_45.png
+size: 2046,1891
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biqilin
+  rotate: false
+  xy: 1621, 777
+  size: 423, 781
+  orig: 423, 781
+  offset: 0, 0
+  index: -1
+hua_3
+  rotate: false
+  xy: 2, 74
+  size: 1200, 435
+  orig: 1200, 435
+  offset: 0, 0
+  index: -1
+l_shouwan
+  rotate: true
+  xy: 1621, 1215
+  size: 674, 418
+  orig: 674, 418
+  offset: 0, 0
+  index: -1
+r_datui
+  rotate: true
+  xy: 2, 439
+  size: 782, 2000
+  orig: 782, 2000
+  offset: 0, 0
+  index: -1
+sb_2
+  rotate: false
+  xy: 2, 1223
+  size: 1617, 666
+  orig: 1617, 666
+  offset: 0, 0
+  index: -1
+sz_5
+  rotate: 180
+  xy: 1285, 860
+  size: 454, 361
+  orig: 454, 361
+  offset: 0, 0
+  index: -1
+toufa_2
+  rotate: 270
+  xy: 1204, 3
+  size: 469, 766
+  orig: 469, 766
+  offset: 0, 0
+  index: -1
+
+spine_4523_46.png
+size: 1919,2020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoju
+  rotate: false
+  xy: 761, 1300
+  size: 1100, 718
+  orig: 1100, 718
+  offset: 0, 0
+  index: -1
+l_shoubi
+  rotate: false
+  xy: 576, 3
+  size: 1231, 434
+  orig: 1231, 434
+  offset: 0, 0
+  index: -1
+mojing
+  rotate: 180
+  xy: 1402, 788
+  size: 514, 510
+  orig: 514, 510
+  offset: 0, 0
+  index: -1
+qiu_2
+  rotate: false
+  xy: 2, 208
+  size: 711, 728
+  orig: 711, 758
+  offset: 0, 30
+  index: -1
+r_shouzhang
+  rotate: true
+  xy: 1448, 332
+  size: 410, 413
+  orig: 471, 413
+  offset: 0, 0
+  index: -1
+r_xiaotui
+  rotate: false
+  xy: 2, 367
+  size: 1737, 1652
+  orig: 1758, 1652
+  offset: 0, 0
+  index: -1
+
+spine_4523_47.png
+size: 1918,1921
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gx
+  rotate: false
+  xy: 2, 1172
+  size: 1000, 747
+  orig: 1000, 747
+  offset: 0, 0
+  index: -1
+l_er
+  rotate: 180
+  xy: 1147, 49
+  size: 767, 589
+  orig: 767, 589
+  offset: 0, 0
+  index: -1
+sb_1
+  rotate: 270
+  xy: 1232, 458
+  size: 1463, 467
+  orig: 1800, 1295
+  offset: 58, 353
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 2
+  size: 1168, 1144
+  orig: 1168, 1144
+  offset: 0, 0
+  index: -1
+toufa_6
+  rotate: 270
+  xy: 876, 320
+  size: 889, 504
+  orig: 889, 504
+  offset: 0, 0
+  index: -1
+
+spine_4523_48.png
+size: 918,694
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yifu_1
+  rotate: false
+  xy: 2, 2
+  size: 914, 690
+  orig: 914, 690
+  offset: 0, 0
+  index: -1
