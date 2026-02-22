@@ -1,0 +1,46 @@
+CZN EX
+Payload-WENT 行界
+SilverT2D
+Starward_Spine_20251209
+
+
+LostSword/
+Payload-AnchorPanic/
+com.hkmanjuu.azurlane.gp_live2d_spine_only_20251201/loadingbg
+eplis/#1
+Payload-AttackOnTime/exported
+Payload-CrazyOnes/Assets
+
+
+Hazeripped/role/*/fighticon
+Hazeripped/role/*/fightspine
+Hazeripped/role/*/longicon
+Hazeripped/role/*/circleicon
+Hazeripped/role/*/hdicon
+Hazeripped/role/*/recticon
+Hazeripped/role/*/qicon
+Hazeripped/role/*/normalicon/*_#*
+Hazeripped/role/*/watchspine/SkeletonAnimation.json
+Hazeripped/role/*/watchspine/SkeletonGraphic.json
+Hazeripped/role/*/watchspine/*_Atlas.json
+Hazeripped/role/*/watchspine/*_SkeletonData.json
+Hazeripped/role/*/watchspine/*_#*
+
+#
+/*
+!.gitignore
+!README.md
+
+
+
+!Payload-DaiblosCore/
+!Payload-DaiblosCore/**
+
+# Now ignore the heavy folders
+Payload-DaiblosCore/spine_exp/cg*/
+Payload-DaiblosCore/spine_exp/*break*/
+Payload-DaiblosCore/spine_exp/7*/
+Payload-DaiblosCore/spine_exp/6*/
+Payload-DaiblosCore/spine_exp/5*/
+Payload-DaiblosCore/spine_exp/4*/
+Payload-DaiblosCore/spine_exp/peak*/
