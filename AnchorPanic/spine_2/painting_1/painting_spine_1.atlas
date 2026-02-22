@@ -1,0 +1,1990 @@
+
+painting_spine_1.png
+size: 2048,2030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/yh_00000
+  rotate: true
+  xy: 891, 37
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1liuhai4
+  rotate: 270
+  xy: 1090, 17
+  size: 123, 209
+  orig: 123, 209
+  offset: 0, 0
+  index: -1
+1meimao
+  rotate: false
+  xy: 2, 2
+  size: 252, 84
+  orig: 252, 84
+  offset: 0, 0
+  index: -1
+1shangyan
+  rotate: false
+  xy: 377, 390
+  size: 88, 49
+  orig: 88, 49
+  offset: 0, 0
+  index: -1
+1shangyan2
+  rotate: false
+  xy: 2, 547
+  size: 131, 69
+  orig: 131, 69
+  offset: 0, 0
+  index: -1
+1toushi
+  rotate: false
+  xy: 917, 1805
+  size: 27, 78
+  orig: 27, 78
+  offset: 0, 0
+  index: -1
+1xiayan
+  rotate: false
+  xy: 1966, 1215
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+1xiayan2
+  rotate: false
+  xy: 1781, 17
+  size: 89, 58
+  orig: 89, 58
+  offset: 0, 0
+  index: -1
+1yanbai
+  rotate: false
+  xy: 580, 1912
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1
+1yanbai2
+  rotate: false
+  xy: 562, 1967
+  size: 90, 61
+  orig: 90, 61
+  offset: 0, 0
+  index: -1
+1yanzhu
+  rotate: false
+  xy: 895, 1732
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+1yanzhu2
+  rotate: false
+  xy: 1966, 1484
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+2meimao
+  rotate: false
+  xy: 1966, 1431
+  size: 78, 51
+  orig: 78, 51
+  offset: 0, 0
+  index: -1
+2shangyan
+  rotate: false
+  xy: 489, 403
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+2xiayan1
+  rotate: false
+  xy: 1966, 1243
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+2yanbai1
+  rotate: false
+  xy: 1966, 1285
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+2yanzhu1
+  rotate: false
+  xy: 793, 1664
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+3budi2
+  rotate: false
+  xy: 2, 389
+  size: 1641, 1639
+  orig: 1641, 1639
+  offset: 0, 0
+  index: -1
+3meimao
+  rotate: false
+  xy: 256, 18
+  size: 281, 68
+  orig: 281, 68
+  offset: 0, 0
+  index: -1
+4chibang
+  rotate: true
+  xy: 1645, 702
+  size: 324, 381
+  orig: 324, 381
+  offset: 0, 0
+  index: -1
+4ershi
+  rotate: false
+  xy: 2, 1936
+  size: 55, 92
+  orig: 55, 92
+  offset: 0, 0
+  index: -1
+4lian
+  rotate: false
+  xy: 637, 1701
+  size: 328, 327
+  orig: 328, 327
+  offset: 0, 0
+  index: -1
+4meimao
+  rotate: false
+  xy: 2, 427
+  size: 255, 96
+  orig: 255, 96
+  offset: 0, 0
+  index: -1
+4shangyan
+  rotate: false
+  xy: 1090, 321
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+4shangyan1
+  rotate: false
+  xy: 1408, 559
+  size: 117, 66
+  orig: 117, 66
+  offset: 0, 0
+  index: -1
+4shou2
+  rotate: false
+  xy: 259, 420
+  size: 110, 71
+  orig: 110, 71
+  offset: 0, 0
+  index: -1
+4tui1
+  rotate: 270
+  xy: 1133, 112
+  size: 569, 913
+  orig: 569, 913
+  offset: 0, 0
+  index: -1
+4tui2
+  rotate: true
+  xy: 2, 88
+  size: 299, 887
+  orig: 299, 887
+  offset: 0, 0
+  index: -1
+4xiayan
+  rotate: false
+  xy: 654, 1972
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+4xiayan1
+  rotate: false
+  xy: 2, 392
+  size: 88, 33
+  orig: 88, 33
+  offset: 0, 0
+  index: -1
+4yanbai
+  rotate: false
+  xy: 1966, 1371
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+4yanbai1
+  rotate: false
+  xy: 885, 1974
+  size: 97, 54
+  orig: 97, 54
+  offset: 0, 0
+  index: -1
+4yanzhu
+  rotate: false
+  xy: 599, 1856
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+4yanzhu2
+  rotate: false
+  xy: 2, 1879
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+5liuhai5
+  rotate: false
+  xy: 1911, 32
+  size: 135, 242
+  orig: 135, 242
+  offset: 0, 0
+  index: -1
+5meimao
+  rotate: false
+  xy: 539, 19
+  size: 282, 67
+  orig: 282, 67
+  offset: 0, 0
+  index: -1
+5shangyan
+  rotate: false
+  xy: 371, 430
+  size: 116, 59
+  orig: 116, 59
+  offset: 0, 0
+  index: -1
+5shangyan1
+  rotate: false
+  xy: 1347, 522
+  size: 125, 50
+  orig: 125, 50
+  offset: 0, 0
+  index: -1
+5toufa2
+  rotate: true
+  xy: 1220, 32
+  size: 155, 685
+  orig: 155, 685
+  offset: 0, 0
+  index: -1
+5toushi1
+  rotate: false
+  xy: 1966, 1548
+  size: 59, 236
+  orig: 59, 236
+  offset: 0, 0
+  index: -1
+5toushi2
+  rotate: false
+  xy: 1966, 1786
+  size: 59, 242
+  orig: 59, 242
+  offset: 0, 0
+  index: -1
+5xiayan
+  rotate: false
+  xy: 88, 535
+  size: 92, 30
+  orig: 92, 30
+  offset: 0, 0
+  index: -1
+5xiayan2
+  rotate: false
+  xy: 1817, 192
+  size: 95, 41
+  orig: 95, 41
+  offset: 0, 0
+  index: -1
+5yanbai
+  rotate: false
+  xy: 682, 1654
+  size: 109, 45
+  orig: 109, 45
+  offset: 0, 0
+  index: -1
+5yanbai2
+  rotate: false
+  xy: 841, 1671
+  size: 92, 47
+  orig: 92, 47
+  offset: 0, 0
+  index: -1
+5yanzhu
+  rotate: false
+  xy: 1543, 1981
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+5yanzhu1
+  rotate: false
+  xy: 1966, 1324
+  size: 58, 45
+  orig: 58, 45
+  offset: 0, 0
+  index: -1
+tx_2
+  rotate: true
+  xy: 1616, 1028
+  size: 1000, 348
+  orig: 1000, 348
+  offset: 0, 0
+  index: -1
+
+painting_spine_12.png
+size: 2009,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1liuhai1
+  rotate: false
+  xy: 849, 100
+  size: 232, 211
+  orig: 232, 211
+  offset: 0, 0
+  index: -1
+1liuhai2
+  rotate: true
+  xy: 397, 184
+  size: 140, 264
+  orig: 140, 264
+  offset: 0, 0
+  index: -1
+2shou1
+  rotate: true
+  xy: 2, 17
+  size: 307, 1072
+  orig: 307, 1072
+  offset: 0, 0
+  index: -1
+2toufa1
+  rotate: true
+  xy: 1777, 76
+  size: 248, 229
+  orig: 248, 229
+  offset: 0, 0
+  index: -1
+5liuhai3
+  rotate: 270
+  xy: 1486, 3
+  size: 130, 289
+  orig: 130, 289
+  offset: 0, 0
+  index: -1
+5shou2
+  rotate: true
+  xy: 1063, 88
+  size: 236, 712
+  orig: 236, 712
+  offset: 0, 0
+  index: -1
+bj
+  rotate: false
+  xy: 2, 1187
+  size: 2000, 859
+  orig: 2000, 859
+  offset: 0, 0
+  index: -1
+tk
+  rotate: false
+  xy: 2, 326
+  size: 2000, 859
+  orig: 2000, 859
+  offset: 0, 0
+  index: -1
+
+painting_spine_13.png
+size: 2045,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/yh_00002
+  rotate: true
+  xy: 980, 990
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00004
+  rotate: true
+  xy: 1768, 1090
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00006
+  rotate: true
+  xy: 1768, 1442
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1baizi1
+  rotate: true
+  xy: 2, 4
+  size: 332, 401
+  orig: 332, 401
+  offset: 0, 0
+  index: -1
+1huofa
+  rotate: false
+  xy: 1768, 1874
+  size: 229, 172
+  orig: 229, 172
+  offset: 0, 0
+  index: -1
+1shou2
+  rotate: false
+  xy: 1768, 556
+  size: 230, 532
+  orig: 230, 532
+  offset: 0, 0
+  index: -1
+2tui4
+  rotate: true
+  xy: 1015, 2
+  size: 552, 1013
+  orig: 552, 1013
+  offset: 0, 0
+  index: -1
+3budi4
+  rotate: 270
+  xy: 2, 1480
+  size: 566, 528
+  orig: 566, 528
+  offset: 0, 0
+  index: -1
+3maojing
+  rotate: true
+  xy: 2, 1180
+  size: 331, 179
+  orig: 331, 179
+  offset: 0, 0
+  index: -1
+3shenti
+  rotate: false
+  xy: 2, 49
+  size: 1241, 1998
+  orig: 1241, 2000
+  offset: 0, 0
+  index: -1
+3toufa3
+  rotate: true
+  xy: 1670, 2
+  size: 142, 372
+  orig: 142, 372
+  offset: 0, 0
+  index: -1
+4hua
+  rotate: true
+  xy: 1133, 366
+  size: 162, 286
+  orig: 162, 286
+  offset: 0, 0
+  index: -1
+4toufa2
+  rotate: 180
+  xy: 814, 2
+  size: 188, 280
+  orig: 188, 280
+  offset: 0, 0
+  index: -1
+5toufa3
+  rotate: true
+  xy: 863, 1342
+  size: 703, 360
+  orig: 703, 371
+  offset: 0, 0
+  index: -1
+tx_1
+  rotate: true
+  xy: 1245, 546
+  size: 1500, 521
+  orig: 1500, 521
+  offset: 0, 0
+  index: -1
+
+painting_spine_14.png
+size: 2045,2047
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/yh_00008
+  rotate: false
+  xy: 2, 1848
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1liuhai3
+  rotate: 180
+  xy: 1391, 1161
+  size: 112, 246
+  orig: 112, 246
+  offset: 0, 0
+  index: -1
+2lingdang
+  rotate: true
+  xy: 354, 1930
+  size: 115, 197
+  orig: 115, 197
+  offset: 0, 0
+  index: -1
+2qunbai2
+  rotate: 180
+  xy: 2, 996
+  size: 392, 791
+  orig: 392, 791
+  offset: 0, 0
+  index: -1
+2qunbai3
+  rotate: false
+  xy: 818, 3
+  size: 879, 1189
+  orig: 879, 1189
+  offset: 0, 0
+  index: -1
+2xiong
+  rotate: true
+  xy: 906, 1194
+  size: 481, 572
+  orig: 481, 572
+  offset: 0, 0
+  index: -1
+3toufa2
+  rotate: 180
+  xy: 2, 697
+  size: 293, 407
+  orig: 293, 407
+  offset: 0, 0
+  index: -1
+4chibang2
+  rotate: false
+  xy: 2, 45
+  size: 1505, 2000
+  orig: 1505, 2000
+  offset: 0, 0
+  index: -1
+4liuhai
+  rotate: true
+  xy: 204, 18
+  size: 253, 343
+  orig: 253, 343
+  offset: 0, 0
+  index: -1
+4liuhai4
+  rotate: false
+  xy: 215, 1564
+  size: 173, 282
+  orig: 173, 282
+  offset: 0, 0
+  index: -1
+4shou1
+  rotate: false
+  xy: 384, 9
+  size: 141, 112
+  orig: 141, 112
+  offset: 0, 0
+  index: -1
+4toufa1
+  rotate: false
+  xy: 564, 33
+  size: 461, 850
+  orig: 461, 850
+  offset: 0, 0
+  index: -1
+5liuhai2
+  rotate: 180
+  xy: 768, 20
+  size: 270, 435
+  orig: 312, 435
+  offset: 42, 0
+  index: -1
+5liuhai4
+  rotate: true
+  xy: 873, 6
+  size: 210, 253
+  orig: 210, 253
+  offset: 0, 0
+  index: -1
+5tou
+  rotate: false
+  xy: 1699, 79
+  size: 335, 391
+  orig: 335, 465
+  offset: 0, 0
+  index: -1
+5toufa4
+  rotate: false
+  xy: 1509, 1055
+  size: 515, 990
+  orig: 515, 990
+  offset: 0, 0
+  index: -1
+5xiong
+  rotate: true
+  xy: 1672, 454
+  size: 599, 370
+  orig: 599, 370
+  offset: 0, 0
+  index: -1
+
+painting_spine_15.png
+size: 2048,2034
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1hudiejie
+  rotate: 180
+  xy: 1321, 60
+  size: 197, 492
+  orig: 197, 492
+  offset: 0, 0
+  index: -1
+1lian
+  rotate: 270
+  xy: 1325, 3
+  size: 691, 615
+  orig: 691, 615
+  offset: 0, 0
+  index: -1
+1shenti
+  rotate: false
+  xy: 2, 643
+  size: 1058, 1389
+  orig: 1075, 1389
+  offset: 17, 0
+  index: -1
+1xiong
+  rotate: false
+  xy: 2, 1312
+  size: 292, 619
+  orig: 292, 619
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 579, 1056
+  size: 530, 415
+  orig: 530, 415
+  offset: 0, 0
+  index: -1
+2shenti
+  rotate: 180
+  xy: 781, 448
+  size: 846, 1584
+  orig: 846, 1623
+  offset: 0, 0
+  index: -1
+2tui1
+  rotate: false
+  xy: 2, 11
+  size: 1317, 579
+  orig: 1317, 579
+  offset: 0, 0
+  index: -1
+3budi
+  rotate: false
+  xy: 1423, 709
+  size: 553, 1323
+  orig: 553, 1323
+  offset: 0, 0
+  index: -1
+3toufa1
+  rotate: true
+  xy: 2, 37
+  size: 190, 370
+  orig: 190, 370
+  offset: 0, 0
+  index: -1
+4liuhai3
+  rotate: true
+  xy: 1111, 457
+  size: 204, 231
+  orig: 204, 231
+  offset: 0, 0
+  index: -1
+5liuhai1
+  rotate: false
+  xy: 1861, 1576
+  size: 159, 456
+  orig: 159, 456
+  offset: 0, 0
+  index: -1
+5shenti
+  rotate: 270
+  xy: 282, 548
+  size: 499, 497
+  orig: 499, 497
+  offset: 0, 0
+  index: -1
+5shipin
+  rotate: false
+  xy: 1867, 432
+  size: 179, 449
+  orig: 179, 449
+  offset: 0, 0
+  index: -1
+
+painting_spine_16.png
+size: 2025,2041
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/yh_00010
+  rotate: false
+  xy: 1516, 823
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00012
+  rotate: false
+  xy: 2, 3
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00014
+  rotate: false
+  xy: 845, 57
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00016
+  rotate: false
+  xy: 1197, 57
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00018
+  rotate: false
+  xy: 1549, 57
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1toufa2
+  rotate: true
+  xy: 1151, 1566
+  size: 473, 857
+  orig: 473, 857
+  offset: 0, 0
+  index: -1
+2lian
+  rotate: false
+  xy: 533, 1513
+  size: 380, 420
+  orig: 380, 420
+  offset: 0, 0
+  index: -1
+2liuhai2
+  rotate: false
+  xy: 1857, 771
+  size: 165, 376
+  orig: 165, 376
+  offset: 0, 0
+  index: -1
+2toufa
+  rotate: true
+  xy: 2, 877
+  size: 442, 362
+  orig: 442, 362
+  offset: 0, 0
+  index: -1
+2toushi
+  rotate: 270
+  xy: 522, 1832
+  size: 207, 459
+  orig: 207, 459
+  offset: 0, 0
+  index: -1
+2tui3
+  rotate: false
+  xy: 1039, 256
+  size: 827, 565
+  orig: 827, 565
+  offset: 0, 0
+  index: -1
+3budi3
+  rotate: false
+  xy: 2, 202
+  size: 405, 566
+  orig: 405, 566
+  offset: 0, 0
+  index: -1
+4sha
+  rotate: false
+  xy: 372, 129
+  size: 665, 1495
+  orig: 665, 1495
+  offset: 0, 0
+  index: -1
+4shou
+  rotate: 180
+  xy: 992, 823
+  size: 938, 1216
+  orig: 938, 1216
+  offset: 0, 0
+  index: -1
+5jian
+  rotate: false
+  xy: 2, 981
+  size: 849, 1059
+  orig: 849, 1087
+  offset: 0, 0
+  index: -1
+
+painting_spine_17.png
+size: 2038,2004
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/yh_00020
+  rotate: false
+  xy: 1607, 1805
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00022
+  rotate: true
+  xy: 1080, 108
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1qunbai
+  rotate: false
+  xy: 2, 1409
+  size: 434, 593
+  orig: 434, 593
+  offset: 0, 0
+  index: -1
+1shou1
+  rotate: false
+  xy: 1285, 5
+  size: 698, 963
+  orig: 698, 963
+  offset: 0, 0
+  index: -1
+1toufa1
+  rotate: 180
+  xy: 768, 3
+  size: 511, 1475
+  orig: 511, 1475
+  offset: 0, 0
+  index: -1
+2qunbai1
+  rotate: 180
+  xy: 1098, 676
+  size: 585, 1284
+  orig: 585, 1284
+  offset: 0, 0
+  index: -1
+2shou2
+  rotate: false
+  xy: 2, 759
+  size: 311, 729
+  orig: 311, 729
+  offset: 0, 0
+  index: -1
+4qunbai
+  rotate: 180
+  xy: 478, 30
+  size: 506, 1765
+  orig: 506, 1765
+  offset: 0, 0
+  index: -1
+4shenti
+  rotate: false
+  xy: 2, 4
+  size: 759, 1999
+  orig: 759, 2000
+  offset: 0, 0
+  index: -1
+4xiong
+  rotate: false
+  xy: 1549, 1099
+  size: 487, 530
+  orig: 498, 530
+  offset: 0, 0
+  index: -1
+5toufa1
+  rotate: false
+  xy: 282, 1081
+  size: 210, 611
+  orig: 210, 611
+  offset: 0, 0
+  index: -1
+
+painting_spine_18.png
+size: 1907,1956
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/yh_00024
+  rotate: true
+  xy: 654, 1017
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00026
+  rotate: true
+  xy: 1255, 94
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00028
+  rotate: true
+  xy: 1323, 446
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00030
+  rotate: true
+  xy: 1380, 798
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00032
+  rotate: true
+  xy: 1454, 94
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00034
+  rotate: true
+  xy: 1465, 1150
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00036
+  rotate: true
+  xy: 1508, 1502
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00038
+  rotate: true
+  xy: 1579, 446
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00040
+  rotate: true
+  xy: 1653, 94
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00042
+  rotate: true
+  xy: 1664, 798
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00044
+  rotate: true
+  xy: 1707, 1150
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00046
+  rotate: true
+  xy: 1707, 1604
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00048
+  rotate: false
+  xy: 640, 3
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+2liuhai1
+  rotate: false
+  xy: 992, 115
+  size: 514, 1685
+  orig: 514, 1685
+  offset: 0, 0
+  index: -1
+2qunbai
+  rotate: true
+  xy: 2, 1427
+  size: 527, 496
+  orig: 527, 496
+  offset: 0, 0
+  index: -1
+2shou3
+  rotate: true
+  xy: 2, 277
+  size: 462, 606
+  orig: 462, 606
+  offset: 0, 0
+  index: -1
+2toufa2
+  rotate: false
+  xy: 779, 523
+  size: 474, 1431
+  orig: 474, 1431
+  offset: 0, 0
+  index: -1
+2tui2
+  rotate: false
+  xy: 2, 810
+  size: 1057, 1144
+  orig: 1057, 1144
+  offset: 0, 0
+  index: -1
+3shou
+  rotate: 270
+  xy: 63, 45
+  size: 649, 1082
+  orig: 649, 1082
+  offset: 0, 0
+  index: -1
+4liuhai1
+  rotate: false
+  xy: 289, 1490
+  size: 341, 432
+  orig: 341, 432
+  offset: 0, 0
+  index: -1
+5shou
+  rotate: false
+  xy: 2, 611
+  size: 741, 404
+  orig: 741, 404
+  offset: 0, 0
+  index: -1
+
+painting_spine_19.png
+size: 1961,2007
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/yh_00050
+  rotate: false
+  xy: 2, 1808
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00052
+  rotate: false
+  xy: 354, 1808
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00054
+  rotate: false
+  xy: 706, 1808
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00056
+  rotate: false
+  xy: 1058, 1808
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00058
+  rotate: false
+  xy: 1410, 1808
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00060
+  rotate: true
+  xy: 1762, 1655
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00062
+  rotate: false
+  xy: 2, 1609
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00064
+  rotate: false
+  xy: 354, 1609
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00066
+  rotate: false
+  xy: 706, 1609
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00068
+  rotate: false
+  xy: 1058, 1609
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00070
+  rotate: false
+  xy: 1410, 1456
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00072
+  rotate: false
+  xy: 2, 1410
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00074
+  rotate: false
+  xy: 354, 1410
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00076
+  rotate: false
+  xy: 706, 1410
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00078
+  rotate: true
+  xy: 1762, 1303
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00080
+  rotate: false
+  xy: 1058, 1257
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00082
+  rotate: false
+  xy: 2, 1211
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00084
+  rotate: false
+  xy: 354, 1211
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00086
+  rotate: false
+  xy: 1410, 1104
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00088
+  rotate: false
+  xy: 706, 1058
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00090
+  rotate: false
+  xy: 2, 1012
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00092
+  rotate: true
+  xy: 1762, 951
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00094
+  rotate: false
+  xy: 1058, 905
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00096
+  rotate: false
+  xy: 354, 859
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00098
+  rotate: false
+  xy: 1410, 752
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00100
+  rotate: false
+  xy: 706, 706
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00102
+  rotate: false
+  xy: 2, 660
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00104
+  rotate: true
+  xy: 1762, 599
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00106
+  rotate: false
+  xy: 1058, 553
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00108
+  rotate: false
+  xy: 354, 507
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00110
+  rotate: false
+  xy: 1410, 400
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00112
+  rotate: false
+  xy: 706, 354
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00114
+  rotate: false
+  xy: 2, 308
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00116
+  rotate: true
+  xy: 1762, 247
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00118
+  rotate: false
+  xy: 1058, 201
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00120
+  rotate: false
+  xy: 354, 155
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00122
+  rotate: false
+  xy: 1410, 48
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00124
+  rotate: false
+  xy: 706, 2
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+
+painting_spine_110.png
+size: 1961,2007
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/yh_00126
+  rotate: false
+  xy: 2, 1808
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00128
+  rotate: false
+  xy: 354, 1808
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00130
+  rotate: false
+  xy: 706, 1808
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00132
+  rotate: false
+  xy: 1058, 1808
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00134
+  rotate: false
+  xy: 1410, 1808
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00136
+  rotate: true
+  xy: 1762, 1655
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00138
+  rotate: false
+  xy: 2, 1609
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00140
+  rotate: false
+  xy: 354, 1609
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00142
+  rotate: false
+  xy: 706, 1609
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00144
+  rotate: false
+  xy: 1058, 1609
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00146
+  rotate: false
+  xy: 1410, 1456
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00148
+  rotate: false
+  xy: 2, 1410
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00150
+  rotate: false
+  xy: 354, 1410
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00152
+  rotate: false
+  xy: 706, 1410
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00154
+  rotate: true
+  xy: 1762, 1303
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00156
+  rotate: false
+  xy: 1058, 1257
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00158
+  rotate: false
+  xy: 2, 1211
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00160
+  rotate: false
+  xy: 354, 1211
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00162
+  rotate: false
+  xy: 1410, 1104
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00164
+  rotate: false
+  xy: 706, 1058
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00166
+  rotate: false
+  xy: 2, 1012
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00168
+  rotate: true
+  xy: 1762, 951
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00170
+  rotate: false
+  xy: 1058, 905
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00172
+  rotate: false
+  xy: 354, 859
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00174
+  rotate: false
+  xy: 1410, 752
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00176
+  rotate: false
+  xy: 706, 706
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00178
+  rotate: false
+  xy: 2, 660
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00180
+  rotate: true
+  xy: 1762, 599
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00182
+  rotate: false
+  xy: 1058, 553
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00184
+  rotate: false
+  xy: 354, 507
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00186
+  rotate: false
+  xy: 1410, 400
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00188
+  rotate: false
+  xy: 706, 354
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00190
+  rotate: false
+  xy: 2, 308
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00192
+  rotate: true
+  xy: 1762, 247
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00194
+  rotate: false
+  xy: 1058, 201
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00196
+  rotate: false
+  xy: 354, 155
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00198
+  rotate: false
+  xy: 1410, 48
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00200
+  rotate: false
+  xy: 706, 2
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+
+painting_spine_111.png
+size: 1961,2007
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/yh_00202
+  rotate: false
+  xy: 2, 1808
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00204
+  rotate: false
+  xy: 354, 1808
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00206
+  rotate: false
+  xy: 706, 1808
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00208
+  rotate: false
+  xy: 1058, 1808
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00210
+  rotate: false
+  xy: 1410, 1808
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00212
+  rotate: true
+  xy: 1762, 1655
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00214
+  rotate: false
+  xy: 2, 1609
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00216
+  rotate: false
+  xy: 354, 1609
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00218
+  rotate: false
+  xy: 706, 1609
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00220
+  rotate: false
+  xy: 1058, 1609
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00222
+  rotate: false
+  xy: 1410, 1456
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00224
+  rotate: false
+  xy: 2, 1410
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00226
+  rotate: false
+  xy: 354, 1410
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00228
+  rotate: false
+  xy: 706, 1410
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00230
+  rotate: true
+  xy: 1762, 1303
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00232
+  rotate: false
+  xy: 1058, 1257
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00234
+  rotate: false
+  xy: 2, 1211
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00236
+  rotate: false
+  xy: 354, 1211
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00238
+  rotate: false
+  xy: 1410, 1104
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00240
+  rotate: false
+  xy: 706, 1058
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00242
+  rotate: false
+  xy: 2, 1012
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00244
+  rotate: true
+  xy: 1762, 951
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00246
+  rotate: false
+  xy: 1058, 905
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00248
+  rotate: false
+  xy: 354, 859
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00250
+  rotate: false
+  xy: 1410, 752
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00252
+  rotate: false
+  xy: 706, 706
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00254
+  rotate: false
+  xy: 2, 660
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00256
+  rotate: true
+  xy: 1762, 599
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00258
+  rotate: false
+  xy: 1058, 553
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00260
+  rotate: false
+  xy: 354, 507
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00262
+  rotate: false
+  xy: 1410, 400
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00264
+  rotate: false
+  xy: 706, 354
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00266
+  rotate: false
+  xy: 2, 308
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00268
+  rotate: true
+  xy: 1762, 247
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00270
+  rotate: false
+  xy: 1058, 201
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00272
+  rotate: false
+  xy: 354, 155
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00274
+  rotate: false
+  xy: 1410, 48
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00276
+  rotate: false
+  xy: 706, 2
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+
+painting_spine_112.png
+size: 553,1992
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/yh_00278
+  rotate: false
+  xy: 2, 1793
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00280
+  rotate: false
+  xy: 2, 1594
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00282
+  rotate: false
+  xy: 2, 1395
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00284
+  rotate: false
+  xy: 2, 1196
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00286
+  rotate: false
+  xy: 2, 997
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00288
+  rotate: false
+  xy: 2, 798
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00290
+  rotate: false
+  xy: 2, 599
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00292
+  rotate: false
+  xy: 2, 400
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00294
+  rotate: false
+  xy: 2, 201
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00296
+  rotate: false
+  xy: 2, 2
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00298
+  rotate: true
+  xy: 354, 1640
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+1/yh_00300
+  rotate: true
+  xy: 354, 1288
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1

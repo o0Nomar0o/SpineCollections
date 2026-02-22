@@ -1,0 +1,40 @@
+
+4515_2.png
+size: 1951,1253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q7
+  rotate: false
+  xy: 2, 2
+  size: 235, 170
+  orig: 237, 172
+  offset: 1, 1
+  index: -1
+q8
+  rotate: false
+  xy: 239, 137
+  size: 45, 35
+  orig: 48, 37
+  offset: 1, 1
+  index: -1
+q9-2
+  rotate: false
+  xy: 2, 174
+  size: 1947, 1077
+  orig: 1947, 1121
+  offset: 0, 13
+  index: -1
+
+4515_22.png
+size: 1845,1049
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-3
+  rotate: false
+  xy: 2, 2
+  size: 1841, 1045
+  orig: 1841, 1045
+  offset: 0, 0
+  index: -1

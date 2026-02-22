@@ -1,0 +1,37 @@
+CZN EX
+Payload-WENT 行界
+SilverT2D
+Starward_Spine_20251209
+
+千年之旅/*
+!千年之旅/Yumi/
+!千年之旅/Yumi3017001_spine/
+
+LostSword/
+Payload-AnchorPanic/
+com.hkmanjuu.azurlane.gp_live2d_spine_only_20251201/loadingbg
+eplis/#1
+Payload-AttackOnTime/exported
+Payload-CrazyOnes/Assets
+
+SnBAsset/*
+!SnBAsset/saint_base_a1_01
+
+
+Hazeripped/role/*/fighticon
+Hazeripped/role/*/fightspine
+Hazeripped/role/*/longicon
+Hazeripped/role/*/circleicon
+Hazeripped/role/*/hdicon
+Hazeripped/role/*/recticon
+Hazeripped/role/*/qicon
+Hazeripped/role/*/watchspine/SkeletonAnimation.json
+Hazeripped/role/*/watchspine/SkeletonGraphic.json
+Hazeripped/role/*/watchspine/*_Atlas.json
+Hazeripped/role/*/watchspine/*_SkeletonData.json
+Hazeripped/role/*/watchspine/*_#*
+
+#
+/*
+!.gitignore
+!AnchorPanic

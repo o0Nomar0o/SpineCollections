@@ -1,0 +1,330 @@
+
+spine_4522_3.png
+size: 2044,1813
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q10
+  rotate: false
+  xy: 980, 587
+  size: 516, 408
+  orig: 538, 408
+  offset: 0, 0
+  index: -1
+q15
+  rotate: false
+  xy: 878, 1704
+  size: 473, 99
+  orig: 475, 101
+  offset: 1, 1
+  index: -1
+q18
+  rotate: true
+  xy: 10, 1543
+  size: 194, 404
+  orig: 194, 406
+  offset: 0, 2
+  index: -1
+q22
+  rotate: false
+  xy: 1698, 1300
+  size: 336, 310
+  orig: 336, 310
+  offset: 0, 0
+  index: -1
+q23
+  rotate: true
+  xy: 10, 273
+  size: 431, 599
+  orig: 431, 599
+  offset: 0, 0
+  index: -1
+q24
+  rotate: false
+  xy: 1255, 1005
+  size: 524, 285
+  orig: 526, 287
+  offset: 1, 1
+  index: -1
+q25-1
+  rotate: false
+  xy: 346, 1747
+  size: 110, 56
+  orig: 110, 56
+  offset: 0, 0
+  index: -1
+q26-1
+  rotate: false
+  xy: 269, 1754
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+q27-1
+  rotate: false
+  xy: 151, 1757
+  size: 108, 46
+  orig: 112, 48
+  offset: 4, 2
+  index: -1
+q28-1
+  rotate: false
+  xy: 466, 1744
+  size: 151, 59
+  orig: 153, 59
+  offset: 1, 0
+  index: -1
+q29
+  rotate: false
+  xy: 10, 1783
+  size: 131, 20
+  orig: 133, 22
+  offset: 1, 1
+  index: -1
+q30
+  rotate: true
+  xy: 704, 1470
+  size: 224, 568
+  orig: 251, 568
+  offset: 4, 0
+  index: -1
+q31
+  rotate: true
+  xy: 424, 1483
+  size: 234, 270
+  orig: 234, 270
+  offset: 0, 0
+  index: -1
+q32
+  rotate: true
+  xy: 827, 1084
+  size: 376, 418
+  orig: 376, 418
+  offset: 0, 0
+  index: -1
+q33
+  rotate: false
+  xy: 1558, 1620
+  size: 287, 183
+  orig: 287, 183
+  offset: 0, 0
+  index: -1
+q34
+  rotate: true
+  xy: 1506, 519
+  size: 476, 501
+  orig: 476, 501
+  offset: 0, 0
+  index: -1
+q35
+  rotate: true
+  xy: 10, 1212
+  size: 321, 333
+  orig: 325, 335
+  offset: 2, 1
+  index: -1
+q36
+  rotate: true
+  xy: 10, 821
+  size: 356, 497
+  orig: 356, 497
+  offset: 0, 0
+  index: -1
+q38-1
+  rotate: false
+  xy: 619, 110
+  size: 589, 467
+  orig: 594, 467
+  offset: 0, 0
+  index: -1
+q38-7
+  rotate: true
+  xy: 1218, 10
+  size: 499, 535
+  orig: 501, 550
+  offset: 2, 15
+  index: -1
+q4
+  rotate: false
+  xy: 517, 714
+  size: 453, 360
+  orig: 453, 360
+  offset: 0, 0
+  index: -1
+q6
+  rotate: true
+  xy: 627, 1727
+  size: 76, 241
+  orig: 76, 241
+  offset: 0, 0
+  index: -1
+q7
+  rotate: true
+  xy: 353, 1187
+  size: 273, 464
+  orig: 273, 464
+  offset: 0, 0
+  index: -1
+q8
+  rotate: true
+  xy: 1282, 1373
+  size: 237, 406
+  orig: 237, 406
+  offset: 0, 0
+  index: -1
+q9
+  rotate: true
+  xy: 1361, 1670
+  size: 133, 187
+  orig: 133, 197
+  offset: 0, 10
+  index: -1
+
+spine_4522_32.png
+size: 2037,1678
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q12-3
+  rotate: false
+  xy: 603, 630
+  size: 733, 522
+  orig: 733, 522
+  offset: 0, 0
+  index: -1
+q14
+  rotate: false
+  xy: 10, 697
+  size: 583, 510
+  orig: 586, 513
+  offset: 2, 2
+  index: -1
+q2
+  rotate: false
+  xy: 807, 10
+  size: 856, 592
+  orig: 858, 596
+  offset: 1, 2
+  index: -1
+q3
+  rotate: true
+  xy: 10, 1217
+  size: 451, 1064
+  orig: 451, 1064
+  offset: 0, 0
+  index: -1
+q38-2
+  rotate: false
+  xy: 1084, 1162
+  size: 618, 506
+  orig: 618, 525
+  offset: 0, 0
+  index: -1
+q38-4
+  rotate: true
+  xy: 10, 72
+  size: 548, 787
+  orig: 548, 787
+  offset: 0, 0
+  index: -1
+q5
+  rotate: false
+  xy: 1346, 612
+  size: 681, 540
+  orig: 681, 540
+  offset: 0, 0
+  index: -1
+
+spine_4522_33.png
+size: 1881,1820
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q1
+  rotate: false
+  xy: 10, 10
+  size: 1861, 1800
+  orig: 1918, 1800
+  offset: 0, 0
+  index: -1
+
+spine_4522_34.png
+size: 1958,1863
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q17
+  rotate: false
+  xy: 10, 122
+  size: 1196, 1731
+  orig: 1196, 1731
+  offset: 0, 0
+  index: -1
+q20
+  rotate: false
+  xy: 1216, 10
+  size: 732, 1843
+  orig: 732, 1843
+  offset: 0, 0
+  index: -1
+
+spine_4522_35.png
+size: 1733,1963
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q11
+  rotate: false
+  xy: 957, 647
+  size: 642, 1306
+  orig: 642, 1306
+  offset: 0, 0
+  index: -1
+q21
+  rotate: false
+  xy: 10, 377
+  size: 937, 1576
+  orig: 937, 1576
+  offset: 0, 0
+  index: -1
+q38-5
+  rotate: true
+  xy: 957, 10
+  size: 627, 766
+  orig: 636, 766
+  offset: 9, 0
+  index: -1
+
+spine_4522_36.png
+size: 1943,1668
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q16
+  rotate: true
+  xy: 10, 347
+  size: 603, 1184
+  orig: 683, 1230
+  offset: 0, 46
+  index: -1
+q19
+  rotate: true
+  xy: 10, 960
+  size: 698, 1223
+  orig: 701, 1234
+  offset: 0, 11
+  index: -1
+q38-3
+  rotate: true
+  xy: 1204, 10
+  size: 774, 729
+  orig: 802, 729
+  offset: 0, 0
+  index: -1
+q38-6
+  rotate: true
+  xy: 1243, 794
+  size: 864, 634
+  orig: 864, 636
+  offset: 0, 2
+  index: -1
