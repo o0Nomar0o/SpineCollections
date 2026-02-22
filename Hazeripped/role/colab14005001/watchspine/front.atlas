@@ -1,0 +1,40 @@
+
+front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuanglian1
+  rotate: false
+  xy: 749, 1858
+  size: 2286, 2129
+  orig: 2286, 2129
+  offset: 0, 0
+  index: -1
+light1
+  rotate: true
+  xy: 2, 3297
+  size: 690, 745
+  orig: 690, 745
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 2, 2
+  size: 3853, 1854
+  orig: 3853, 1854
+  offset: 0, 0
+  index: -1
+
+front2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 2, 1612
+  size: 3846, 2236
+  orig: 3846, 2236
+  offset: 0, 0
+  index: -1

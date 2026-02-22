@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8302033850027404168
+  },
+  "m_Name": "lihui_alaita_pifu_hou_SkeletonData",
+  "atlasAssets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2119660639547025511
+    }
+  ],
+  "scale": 0.01,
+  "skeletonJSON": {
+    "m_FileID": 0,
+    "m_PathID": 5434165961136881304
+  },
+  "isUpgradingBlendModeMaterials": 0,
+  "blendModeMaterials": {
+    "requiresBlendModeMaterials": 0,
+    "applyAdditiveMaterial": 1,
+    "additiveMaterials": [],
+    "multiplyMaterials": [],
+    "screenMaterials": []
+  },
+  "skeletonDataModifiers": [],
+  "fromAnimation": [],
+  "toAnimation": [],
+  "duration": [],
+  "defaultMix": 0.2,
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

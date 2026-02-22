@@ -1,0 +1,76 @@
+
+lihui_alaita_pifu_hou.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 141
+  rotate: false
+  xy: 1, 744
+  size: 3872, 2056
+  orig: 3872, 2056
+  offset: 0, 0
+  index: -1
+小东西
+  rotate: true
+  xy: 1, 3721
+  size: 161, 164
+  orig: 2710, 1439
+  offset: 456, 764
+  index: -1
+手机
+  rotate: true
+  xy: 507, 3575
+  size: 307, 341
+  orig: 2710, 1439
+  offset: 184, 867
+  index: -1
+枕头
+  rotate: false
+  xy: 1, 2970
+  size: 685, 604
+  orig: 2710, 1439
+  offset: 1789, 835
+  index: -1
+票
+  rotate: false
+  xy: 166, 3656
+  size: 340, 226
+  orig: 2710, 1439
+  offset: 1836, 720
+  index: -1
+花瓣01
+  rotate: true
+  xy: 687, 2801
+  size: 665, 1084
+  orig: 2710, 1439
+  offset: 2045, 355
+  index: -1
+花瓣02
+  rotate: false
+  xy: 2908, 3320
+  size: 974, 562
+  orig: 2710, 1439
+  offset: 1736, 877
+  index: -1
+花瓣03
+  rotate: false
+  xy: 1250, 3467
+  size: 924, 415
+  orig: 2710, 1439
+  offset: 0, 1024
+  index: -1
+花瓣04
+  rotate: false
+  xy: 2175, 3340
+  size: 732, 542
+  orig: 2710, 1439
+  offset: 0, 521
+  index: -1
+鞋子
+  rotate: false
+  xy: 849, 3484
+  size: 400, 398
+  orig: 2710, 1439
+  offset: 2310, 306
+  index: -1

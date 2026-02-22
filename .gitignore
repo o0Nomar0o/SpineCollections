@@ -25,6 +25,7 @@ Hazeripped/role/*/circleicon
 Hazeripped/role/*/hdicon
 Hazeripped/role/*/recticon
 Hazeripped/role/*/qicon
+Hazeripped/role/*/normalicon/*_#*
 Hazeripped/role/*/watchspine/SkeletonAnimation.json
 Hazeripped/role/*/watchspine/SkeletonGraphic.json
 Hazeripped/role/*/watchspine/*_Atlas.json
@@ -38,3 +39,4 @@ Hazeripped/role/*/watchspine/*_#*
 !AnchorPanic
 !DaiblosFebPart
 !eplis
+!Hazeripped

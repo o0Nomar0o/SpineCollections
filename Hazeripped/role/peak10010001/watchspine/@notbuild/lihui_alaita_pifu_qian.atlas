@@ -1,0 +1,13 @@
+
+lihui_alaita_pifu_qian.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+遮挡
+  rotate: false
+  xy: 1, 142
+  size: 301, 160
+  orig: 301, 160
+  offset: 0, 0
+  index: -1
