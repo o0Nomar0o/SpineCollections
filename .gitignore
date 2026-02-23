@@ -38,9 +38,8 @@ Hazeripped/role/*/watchspine/*_#*
 
 # Now ignore the heavy folders
 
-Payload-DaiblosCore/spine_exp/*break*/
+
 Payload-DaiblosCore/spine_exp/7*/
 Payload-DaiblosCore/spine_exp/6*/
 Payload-DaiblosCore/spine_exp/5*/
 Payload-DaiblosCore/spine_exp/4*/
-Payload-DaiblosCore/spine_exp/peak*/
