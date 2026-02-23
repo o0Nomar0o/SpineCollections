@@ -37,3 +37,5 @@ Hazeripped/role/*/watchspine/*_#*
 !Payload-DaiblosCore/**
 
 # Now ignore the heavy folders
+
+!DaiblosFebPart
